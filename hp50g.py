@@ -59,3 +59,4 @@ def operar(formula):
 
 if __name__ == '__main__':
     print(operar("8 = D + 2"))
+    
